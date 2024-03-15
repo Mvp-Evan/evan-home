@@ -37,7 +37,6 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  csdn             : "https://blog.csdn.net/Jianxin_YU"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -71,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : "https://blog.csdn.net/Jianxin_YU" # URL
 
 
 # Site Settings
