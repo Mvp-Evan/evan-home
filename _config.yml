@@ -58,7 +58,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : "https://blog.csdn.net/Jianxin_YU" # URL
+  medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -71,6 +71,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  csdn             : "https://blog.csdn.net/Jianxin_YU"
 
 
 # Site Settings
