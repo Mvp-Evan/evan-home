@@ -22,6 +22,6 @@ Core Courses
 
 Dissertation
 ======
-Adversarial Attacks on Reinforcement Learning based End-to-end Autonomous Driving Systems
-------
+**Adversarial Attacks on Reinforcement Learning based End-to-end Autonomous Driving Systems**  
+
 This paper is still preparing, have not published. Please wait for the update...

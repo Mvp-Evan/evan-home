@@ -15,8 +15,8 @@ Core Courses
 
 Dissertation
 ======
-Intrusion Detection with Feature Code ! Base on Machine Learning
-------
+**Intrusion Detection with Feature Code Base on Machine Learning**  
+
 As the development of internet technology, more and more convenient
 things have been taken into our life. Simultaneously, there are more
 and more hazard of internet with it. Internet Intrusion, as the major
