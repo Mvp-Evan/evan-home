@@ -7,10 +7,10 @@ main:
     url: /education/
 
   - title: "Skills"
-    url: /cv/
+    url: /skills/
 
   - title: "Internships"
-    url: /talks/      
+    url: /internships/
     
   # - title: "Portfolio"
   #   url: /portfolio/
