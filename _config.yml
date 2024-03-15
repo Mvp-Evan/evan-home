@@ -27,7 +27,6 @@ author:
   bio              : "Postgraduate in the University of Manchester"
   location         : "United Kingdom"
   employer         : #
-  uri              : "https://mvp-evan.github.io/evan-home/" # URL
   email            : "jianxin.yu@postgrad.manchester.ac.uk" 
 
   # Academic websites
@@ -44,7 +43,8 @@ author:
   dribbble         : # Username
   github           : "Mvp-Evan"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
+  uri              : "https://blog.csdn.net/Jianxin_YU" # URL
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
@@ -66,7 +66,7 @@ author:
   tumblr           : # Username
   twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
-  weibo            : # Username
+  weibo            : EvanYU-233 # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
