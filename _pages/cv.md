@@ -25,7 +25,7 @@ Programming Languages
   
 Web Frameworks
 ======
-*Spring, Spring-boot, Laravel, etc.
+* Spring, Spring-boot, Laravel, etc.
 
 Database
 ======
